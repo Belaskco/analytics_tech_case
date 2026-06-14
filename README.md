@@ -13,4 +13,4 @@ Este repositório contém a solução do desafio técnico de análise de dados, 
 1. **Ambiente:** Certifique-se de ter o Python 3.10+ instalado.
 2. **Dependências:** Instale as bibliotecas necessárias:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt## Adendo: Link do Pull Request para avaliação
